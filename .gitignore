@@ -136,3 +136,16 @@ dmypy.json
 # docs
 docs/tutorial/en/build/
 docs/tutorial/zh_CN/build/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.DS_Store
+*.log
+temp/
+tmp/
